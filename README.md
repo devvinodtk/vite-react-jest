@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Jest + RTLnp
+# React + TypeScript + Vite + Jest + RTL
 
 Install dependencies for Jest + RTL
 
